@@ -11,7 +11,9 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
 
-    <title>Basic Banking System</title>
+    <title>Spark Project Bank</title>
+   
+    
     <style type="text/css">
         button{
             position: relative;
